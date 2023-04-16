@@ -1,0 +1,8 @@
+#
+# Global define for caches and build results by IDE and Compiler
+bin/
+obj/
+.vs/
+out/
+build/
+
